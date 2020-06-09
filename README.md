@@ -1,4 +1,4 @@
-# Yelp_data_NLP
+# Yelp_data
 # Recommender System using Yelp dataset
 
    - Helaleh Alimohammadi - https://www.linkedin.com/in/helaleh-alimohammadi/
